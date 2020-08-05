@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+/build/classes/java/test/
+
+# Eclipse
+bin
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
